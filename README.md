@@ -12,7 +12,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/Fendoro/SimpleBlogClient.git
-> cd ReduxSimpleStarter
+> cd SimpleBlogClient
 > npm install
 > npm start
 ```
