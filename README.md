@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/react-redux/
 
 ### Used Technologies
 
-JS6, react, babel, webpack, redux, redux-form, axios, promise, react-router, lodash
+ES6, react, babel, webpack, redux, redux-form, axios, promise, react-router, lodash
 
 ### Getting Started
 
